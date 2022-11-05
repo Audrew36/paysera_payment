@@ -1,6 +1,6 @@
 # paysera payment integration
 
-## usefull links
+## useful links
 
 [Paysera utils](https://github.com/paysera/js-lib-money)
 
